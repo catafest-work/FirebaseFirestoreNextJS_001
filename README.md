@@ -1,3 +1,3 @@
 "# FirebaseFirestoreNextJS_001" 
 
-![Screenshot_2](Firebase_Firestore_with_NextJS.png)
+![Screenshot_Firebase_Firestore_with_NextJS](/next-firebase/Firebase_Firestore_with_NextJS.png)
